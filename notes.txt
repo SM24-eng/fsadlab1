@@ -1,2 +1,3 @@
 This is my first Git project.
 Learning Git version control.
+adding new notes in feature branch
